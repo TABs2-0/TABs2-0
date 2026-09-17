@@ -32,7 +32,7 @@ src="https://raw.githubusercontent.com/TABs2-0/TABs2-0/output/github-snake.svg" 
 </picture>
 
 </div>
-div align="center">
+<div align="center">
 <a href="https://www.linkedin.com/in/yoan-cabrel-tabouguia-ngnowa-013a08301">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge
 &logo=linkedin&logoColor=white" alt="LinkedIn" />
