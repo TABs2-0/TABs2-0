@@ -21,7 +21,7 @@ light.svg">
 &layout=compact&langs_count=8&hide_border=true&title_color=22D3EE
 &text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
-div align="center">
+
 <picture>
 <source media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/TABs2-0/TABs2-0/output/github-snake-dark.svg" />
@@ -30,4 +30,21 @@ srcset="https://raw.githubusercontent.com/TABs2-0/TABs2-0/output/github-snake.sv
 <img alt="Snake eating my contributions"
 src="https://raw.githubusercontent.com/TABs2-0/TABs2-0/output/github-snake.svg" />
 </picture>
+
+</div>
+div align="center">
+<a href="https://www.linkedin.com/in/yoan-cabrel-tabouguia-ngnowa-013a08301">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge
+&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/YOUR-HANDLE/">
+<img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge
+&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:yoan1661@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge
+&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
 </div>
