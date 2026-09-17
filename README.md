@@ -13,10 +13,12 @@ light.svg">
 &sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B
 &titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/>
+<div align="center">
 <img width="49%" src="https://github-readme-stats-mine-8mhe8or3x-tab-s2-0.vercel.app/api?username=tabs2-0
 &show_icons=true&count_private=true&include_all_commits=true&hide_rank=true
 &hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8
 &bg_color=0A101F&card_width=500" alt="stats" />
+  <div align="right">
 <img width="49%" src="https://github-readme-stats-mine-8mhe8or3x-tab-s2-0.vercel.app/api/top-langs/?username=tabs2-0
 &layout=compact&langs_count=8&hide_border=true&title_color=22D3EE
 &text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
